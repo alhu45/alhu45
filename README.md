@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @alhu45
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Alan Hu!
+- 👀 I am currently a 2nd year Computer Engineering Student at Queen's University!
 - 📫 Check out my website! hualan.ca
 
 <!---
