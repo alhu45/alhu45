@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Alan!
 - 📫👀 I am going to 3rd year Computer Engineering Student at Queen's University!
-- 👀 Check out my website! [hualan.ca](url)
+- 👀 Check out my website! [https://hualan.ca](url)
