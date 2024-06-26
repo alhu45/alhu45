@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alan Hu!
-- 👀 I am currently a 2nd year Computer Engineering Student at Queen's University!
-- 📫 Check out my website! hualan.ca
+- 👋 Hi, I’m Alan!
+- 📫👀 I am going to 3rd year Computer Engineering Student at Queen's University!
+- 👀 Check out my website! [hualan.ca](url)
 
 <!---
 alhu45/alhu45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
