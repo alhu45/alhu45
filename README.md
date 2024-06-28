@@ -8,5 +8,5 @@
 </div>
 
 <div align="center">
-  <a href="https://hualan.ca">Visit my website</a>
+  <a href="https://hualan.ca">Visit my website!</a>
 </div>
