@@ -1,4 +1,4 @@
-![black](https://github.com/alhu45/alhu45/assets/146134550/31220535-8f64-410e-a587-6c096ddaf720)
+![ALAN HU](https://github.com/alhu45/alhu45/assets/146134550/3136d30b-8712-43bd-939d-071a3a3f992a)
 
 ## Alan Hu
 
