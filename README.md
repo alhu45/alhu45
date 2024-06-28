@@ -1,4 +1,4 @@
-![Premium Vector | Simple black gradient background premium](https://github.com/alhu45/alhu45/assets/146134550/c6849bf8-8a05-46b0-ab2e-3d5ee4b5ddc2)
+![black](https://github.com/alhu45/alhu45/assets/146134550/31220535-8f64-410e-a587-6c096ddaf720)
 
 ## Alan Hu
 
